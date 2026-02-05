@@ -1,3 +1,3 @@
 # Obsidian
 A place where I store my script(s).
-![hippo](https://imgur.com/a/wuBwJYq)
+![example](https://i.imgur.com/B9f6N5Y.gif)
