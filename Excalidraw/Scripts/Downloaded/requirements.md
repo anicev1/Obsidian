@@ -1,7 +1,6 @@
 ### Requirements:
 
-To make use of scripts, you need to install [Obsidian](https://obsidian.md/download) and the Excalidraw plugin first.
-Excalidraw is a community plugin that can be installed in the settings:<br/>
+To make use of scripts (especially for Excalidraw), you need to install [Obsidian](https://obsidian.md/download) and the Excalidraw plugin first. Excalidraw is a community plugin that can be installed in the settings:<br/>
 
 Settings > Community plugins > Browse > type Excalidraw > click on Excalidraw > Install > Enable<br/>
 
