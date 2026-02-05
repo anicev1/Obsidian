@@ -11,6 +11,3 @@ However, the name of the drawing will not change, if a PDF has already been impo
 
 ![example](https://i.imgur.com/XnH6YRb.gif)
 
-### Requirements:
-
-To use this script, you need to install [Obsidian](https://obsidian.md/download) and the Excalidraw plugin first.
