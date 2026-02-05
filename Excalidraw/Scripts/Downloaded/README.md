@@ -1,5 +1,7 @@
 # AutoRenameDrawing.md
 
+<img src="autorenamedrawing_thumb.png" width="850">
+
 ### What this script does:
 
 After importing a PDF in a new drawing, the script automatically changes the name of the drawing to the name of the PDF.
@@ -23,6 +25,6 @@ Copy your path to the startup script (in my case: Excalidraw/Scripts/Downloaded/
 
 ![script_settings](https://i.imgur.com/Ug5xhmF.png)<br/>
 
-Now close Obsidian and restart it again. When you get a small notficiation on the top right corner of your screen, then you successfully installed the script.<br/>
+Now close and restart Obsidian. You will get a small notification on the top right corner of the screen.
 
 <img src="https://i.imgur.com/eqzLxuO.png" width="400"><br/>
