@@ -23,6 +23,6 @@ Copy your path to the startup script (in my case: Excalidraw/Scripts/Downloaded/
 
 ![script_settings](https://i.imgur.com/Ug5xhmF.png)<br/>
 
-Now close Obsidian and restart it again. You should get a small notficiation on the top right corner of your screen.<br/>
+Now close Obsidian and restart it again. When you get a small notficiation on the top right corner of your screen, then you successfully installed the script.<br/>
 
 <img src="https://i.imgur.com/eqzLxuO.png" width="400"><br/>
