@@ -5,7 +5,7 @@
 // --- SETUP ---
 if (window.pdfRenameWatcher) clearInterval(window.pdfRenameWatcher);
 
-new Notice("🚀 PDF Renamer: ULTIMATE MODE");
+new Notice("🚀 AutoRenameDrawing: Ready!");
 console.log("Renamer: Started");
 
 window.pdfRenameWatcher = setInterval(async () => {
