@@ -7,6 +7,8 @@ Neither does it matter how the new drawing is being created, nor how the PDF (as
 
 However, the name of the drawing will <b>not</b> change, if a PDF has already been imported.<br/>
 
+<b>DISCLAIMER<b/>: AutoRenameDrawing.md was mostly generated with AI. Should some functions be deprecated or other problems occur, I would advise you to ask an LLM of your choice (e.g. Gemini, ChatGPT, etc.) to fix the code for your personal use.
+
 ### Demonstration:<br/>
 
 ![example](https://i.imgur.com/XnH6YRb.gif)<br/>
